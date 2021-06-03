@@ -9,6 +9,7 @@ public class Main {
         switch (season) {
             case "jan":
             case "feb":
+                System.out.println("Test");
             case "dec":
                 System.out.println(Seasons.Winter);
                 System.out.println(Seasons.Winter);

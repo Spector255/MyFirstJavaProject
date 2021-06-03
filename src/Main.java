@@ -11,6 +11,7 @@ public class Main {
             case "feb":
             case "dec":
                 System.out.println(Seasons.Winter);
+                System.out.println(Seasons.Winter);
             default:
                 System.out.println(Seasons.Summer);
         }

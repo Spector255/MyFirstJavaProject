@@ -7,6 +7,7 @@ public class Game {
     public Game game = new Game();
 
     public void Game() {
-        System.out.println("Hi, " + game.Player.getCharName() + ", now you are in " + Place + "!");
+        System.out.println(game.Player.getCharName() + ", now you are in " + Place + "!");
+
         }
     }

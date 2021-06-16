@@ -34,4 +34,24 @@ public class Ability {
         public int getSpecialAbility() {
             return SpecialAbility;
         }
+
+    public void setBaseAttack(int baseAttack) {
+        BaseAttack = baseAttack;
+    }
+
+    public void setStrongAttack(int strongAttack) {
+        StrongAttack = strongAttack;
+    }
+
+    public void setHeal(int heal) {
+        Heal = heal;
+    }
+
+    public void setBaseAbility(int baseAbility) {
+        BaseAbility = baseAbility;
+    }
+
+    public void setSpecialAbility(int specialAbility) {
+        SpecialAbility = specialAbility;
+    }
 }

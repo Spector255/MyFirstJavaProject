@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Lesenka {
-    private static final File PATH = "C:\\Users\\tipto\\IdeaProjects\\MyFirstProject\\src"
+    private static final File PATH = "C:\\Users\\tipto\\IdeaProjects\\MyFirstProject\\src";
 
     public static void FileWriter(){
         Scanner scanner = new Scanner(System.in);

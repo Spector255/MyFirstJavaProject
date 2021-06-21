@@ -1,3 +1,5 @@
+package Lecture;
+
 public class Main7 {
     public final static String[] KEYS = {"A","B","C"};
 

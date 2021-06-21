@@ -1,3 +1,5 @@
+package Lecture;
+
 public class Main2 {
     public static void main(String[] args) {
         Student studentOne = new Student("Artur", 1);

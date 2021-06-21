@@ -2,14 +2,14 @@ package RPG_Project;
 
 import java.util.Scanner;
 
-public class CharacterCreating {
+public class CharacterCreating extends Main {
     private static final Clase Class = new Clase();
     private static final Ability Ability = new Ability();
     private static final Stats Stats = new Stats();
     private static final Race Race = new Race();
 
 
-    public Character CharacterCreating() {
+    public void CharacterCreating() {
         System.out.println("Hi!");
         System.out.println("Please select the race of the character");
         System.out.println("Human - Dexterity + 2");
